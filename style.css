@@ -1,0 +1,88 @@
+body{
+    background-image:url(images/mimari8.jpg);
+    background-size:1200px;
+
+   
+}
+
+.baslik{
+   margin-left: 220px;
+   color:rgb(70, 42, 16);
+   font-size:  30px;
+   font-weight:bold;
+   text-decoration: none;  
+   line-height: 30px; 
+   text-align: justify;
+   border-width: 5px; 
+   background-color: rgb(243, 237, 237);
+  
+
+   
+}
+
+.baslik:hover{
+    text-decoration: underline;
+    color: rgb(28, 46, 31);
+
+
+}
+
+.ilkbaslik {
+    text-align:center;
+    color:rgb(34, 49, 25);
+    position: relative;
+    font-size: 60px;
+    border-style: solid;
+    border-width: 40px;
+    background-color: rgb(243, 237, 237);
+    margin-left: 50px;;
+}
+.kutu1{
+    width:1300px;
+    
+}
+
+.logo{ 
+    text-align: center;
+    width: 850px;
+    margin-left: 10px;
+    height: 170px;
+    
+    
+}
+ 
+.iletisim{
+    color:black;
+    font-style: italic;
+    position: relative;
+    top: 250px;
+   
+}
+a{
+    color: black;
+}
+.hakkimizda{
+     background-color: white; 
+     height: 500px;
+}
+.phakkimizda{
+    text-align:center ;
+    font-size: 20px;
+    color:rgb(22, 39, 22)
+  
+}
+.pasas{
+    text-align: center;
+    color:rgb(184, 138, 22);
+    font-weight: bold;
+    font-size: 30px;
+   
+}
+.pasasimage{
+   margin-left: 200px;
+   width: 900px;
+}
+.pasasimage:hover{
+    text-decoration: blink;
+
+}
